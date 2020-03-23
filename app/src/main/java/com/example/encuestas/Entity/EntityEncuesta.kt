@@ -1,5 +1,8 @@
 package com.example.encuestas.Entity
 
+/*
+ @Author MPineiro
+ */
 class EntityEncuesta(
     var nombre:String,
     var apellidoPaterno:String,
